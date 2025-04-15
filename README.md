@@ -1,4 +1,4 @@
-Description for the final Python script (reviewer_agent_script.py)
+Description for the final Python script (capstone-project-final.ipynb)
 Reviewer Assistant Agent (RAA)
 Overview:
 This Python script implements a "Reviewer Assistant Agent" (RAA) designed to automate key parts of the scientific manuscript peer-review process. Utilizing the LangChain framework and an OpenAI language model (e.g., gpt-4.1-mini), the agent analyzes a submitted manuscript (in PDF format), extracts specific quantitative findings, searches for similar articles online, extracts comparable data from those articles, and presents a structured comparison. The entire workflow is orchestrated by a LangChain AgentExecutor managing a suite of custom tools.
